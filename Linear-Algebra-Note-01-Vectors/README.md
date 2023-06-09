@@ -10,7 +10,7 @@ The **fundamental root of a tall building block for linear algebra** is the **ve
 ### 1. Vectors in 2D Plane
 
 
-![](https://files.mdnice.com/user/1474/36317cd7-b648-4a42-80ea-eade0087e5d0.gif)
+![]([https://files.mdnice.com/user/1474/36317cd7-b648-4a42-80ea-eade0087e5d0.gif](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0100.gif))
 
 **The coordinates  of a vector in 2D plane is a pair of numbers** that basically give instructions for how to get **from the tail** of that vector—at the origin—**to its tip**.  
 **在2D平面中一个向量的坐标由一对数构成**，这对数指导你如何**从原点**（向量起点）出发**到达它的尖端**（向量终点）
