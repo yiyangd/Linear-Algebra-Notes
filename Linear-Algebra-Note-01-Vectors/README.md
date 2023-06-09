@@ -22,7 +22,7 @@ The **fundamental root of a tall building block for linear algebra** is the **ve
 - **Every pair of numbers** gives you **ONE and ONLY ONE vector**, and **every vector** is associated with **ONE and ONLY ONE** pair of numbers.  
 **每一对数**给出**唯一一个向量**而**每一个向量**恰好对应**唯一的一对数**
 ### 2. Vectors in 3D Space
-![](https://files.mdnice.com/user/1474/1456d43d-fe15-4110-8aff-8f554fa0d5af.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0102.gif)
 
 **In three dimensions** we **add a third axis, called the z-axis**, which **is perpendicular to both the x and y-axes**, and in this case each vector is associated with an **ordered triplet of numbers**:     
 **在三维空间中**我们**需要添加垂直于x轴和y轴的第三根轴 - z轴**，这种情况下，每个向量就与一个**有序三元数组**对应：
@@ -32,12 +32,12 @@ The **fundamental root of a tall building block for linear algebra** is the **ve
 **每一个三元数组**给出**唯一一个三维空间的向量**，而**每一个三维空间的向量**恰好对应**唯一一个三元数组**
 
 ### 3. Vector Addition
-![](https://files.mdnice.com/user/1474/e8df330b-f5be-41e3-b8a7-e4e133e10de3.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0103.gif)
 
 One way to think about **Vector Addition** is that **each vector represents a certain movement**— **a step** with a **certain distance** and **direction** in space.
 一种思考**向量加法**的方法是**把每个向量看作一种特定的运动**，即在空间中**朝着某个方向迈出一定距离**
 
-![](https://files.mdnice.com/user/1474/77a30ebf-da69-4aef-bb6d-46612cabe71d.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0104.gif)
 
 For examples, **the first vector here has coordinates (1,2)**, and **the second one has coordinates (3,-1)**.  
 举个例子，**第一个向量的坐标是(1, 2)**, **第二个向量的坐标是(3,-1)**
@@ -46,7 +46,7 @@ For examples, **the first vector here has coordinates (1,2)**, and **the second 
   - **walk 1 to the right, then 2 up, then 3 to the right, then 1 down.**  
 **向右1步，向上2步，向右3步，最后向下1步**
 
-![](https://files.mdnice.com/user/1474/fd783c3c-fa73-4b1b-b6dd-7338c3e5f712.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0105.gif)
 
 **Re-organising these step**s so that you **first do all of the rightward motion**, **then do all of the vertical motion:**  
 我们**重新编排它们的顺序**，使得我们**先完成所有水平运动**，**再完成所有竖直运动:**
@@ -74,7 +74,7 @@ y_1+y_2
 $$
 
 ### 4. Vector Scaling
-![](https://files.mdnice.com/user/1474/c025ed70-e22c-4a13-bcf0-8c5b38349951.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0106.gif)
 
 If we take the number `2`, and **multiply it by a given vector**, it means we **stretch out that vector so that it's 2 times as long as the original vector**.  
 比如说我们选择数字2，**它与一个给定向量相乘**, 意味着**把这个向量拉长为原向量的2倍**
@@ -85,7 +85,7 @@ If we take the number `2`, and **multiply it by a given vector**, it means we **
 - throughout linear algebra, **one of the main things that numbers do is scale vectors**, so it's common to use the word **scalar** pretty much **interchangeably** with the word **number**.  
 实际上自始至终，**数字在线性代数中起到的主要作用就是缩放向量**, 所以**标量**和**数字**两个词通常在这里**可以相互替换**
 
-![](https://files.mdnice.com/user/1474/a6972bd2-3580-4306-a3af-d37a07745a4a.gif)
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0107.gif)
 
 **Stretching out a vector by a factor of 2**, corresponds to **multiplying each of its components by that factor, 2**, 
 **将一个向量伸长为原来的2倍**,对应于**将每一个分量分别乘以2**
