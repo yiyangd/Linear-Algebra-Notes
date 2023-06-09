@@ -1,6 +1,7 @@
 ## Linear Algebra Note 01: Vectors
 > 此篇笔记是**线性代数笔记**系列第1篇笔记，记录了**3Blue1Brown**的**Essence of linear algebra**系列课程的第1章内容，即线性代数中最最基础的概念 —— **向量(Vectors)**, 并讨论了**向量相加(Vector Addition)** 和 **向量放缩(Vector Scaling)**, 并强调它们在线性代数中的重要性。
 
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0100.gif)
 
 
 The **fundamental root of a tall building block for linear algebra** is the **vector**.   
@@ -10,7 +11,7 @@ The **fundamental root of a tall building block for linear algebra** is the **ve
 ### 1. Vectors in 2D Plane
 
 
-![]([https://files.mdnice.com/user/1474/36317cd7-b648-4a42-80ea-eade0087e5d0.gif](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0100.gif))
+![](https://github.com/yiyangd/Linear-Algebra-Notes/blob/main/Linear-Algebra-Note-01-Vectors/gif/LA0101.gif)
 
 **The coordinates  of a vector in 2D plane is a pair of numbers** that basically give instructions for how to get **from the tail** of that vector—at the origin—**to its tip**.  
 **在2D平面中一个向量的坐标由一对数构成**，这对数指导你如何**从原点**（向量起点）出发**到达它的尖端**（向量终点）
