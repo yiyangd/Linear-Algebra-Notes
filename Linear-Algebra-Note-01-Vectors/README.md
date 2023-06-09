@@ -56,6 +56,7 @@ For examples, **the first vector here has coordinates (1,2)**, and **the second 
 所以新向量的坐标就是`(1+3, 2+(-1))`
 - in general, **vector addition** is **matching up their terms, and adding each one of those components together**.  
 总的来说，**向量加法**就是**把向量中对应项相加**
+
 $$
 \begin{bmatrix}
 x_1 \\
@@ -105,6 +106,7 @@ s \cdot x\\
 s \cdot y
 \end{bmatrix}
 $$
+
 > **要点:**
 > - 🎯 **向量**可以被视为**空间中的箭头**、**有序的数字列表**或**一般的数学对象**。
 > - 🎯 **向量相加**涉及将一个向量移动，使其尾部与另一个向量的顶部对齐，从而得到它们的和。
